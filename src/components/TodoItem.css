@@ -1,0 +1,17 @@
+.todo-item {
+    width: 400px;
+    border-radius: 10px;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+}
+
+span {
+    font-size: 22px;
+    color: white;
+}
+input{
+    margin-left: 50px; 
+    width: 15px;
+    height: 15px;
+}
